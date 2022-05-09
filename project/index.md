@@ -2,12 +2,5 @@
 layout: default
 title: project
 ---
+Coming soon...
 
-		<div class="resources">
-			<h1>Resources</h1>
-			<p>Resources building this site:</p>
-
-			<ul class="contacts">
-				<li><a href="http://jmcglone.com/guides/github-pages/">Jonathan McGlone's website</li></a>
-				</ul>
-		</div>
