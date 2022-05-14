@@ -1,3 +1,0 @@
-git add .
-git commit -a -m "
-git push origin ID-2-add-about-and-acknowledgement-links
