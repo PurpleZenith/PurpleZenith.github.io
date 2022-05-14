@@ -1,1 +1,5 @@
+name: PurpleZenith's Website
+markdown: cayman
+permalink: /blog/:year/:month/:day/:title
+
 theme: jekyll-theme-cayman
